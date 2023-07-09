@@ -1,0 +1,42 @@
+       name  class Marks
+0      Aman  TYBCA   100
+1  vighnesh  TYBCA   100
+2    faisal  SYBCS    99
+3     samad  FYBCA    98
+
+       name  class Marks
+0      Aman  TYBCA   100
+1  vighnesh  TYBCA   100
+2    faisal  SYBCS    99
+3     samad  FYBCA    98
+
+       name  class Marks
+0      Aman  TYBCA   100
+1  vighnesh  TYBCA   100
+
+    name  class Marks
+3  samad  FYBCA    98
+
+        name  class Marks
+count      4      4     4
+unique     4      3     3
+top     Aman  TYBCA   100
+freq       1      2     2
+
+          State    Capital
+0  Maharashatra     Mumbai
+1         Jammu  Shrinagar
+2            MP     Bhopal
+3            UP    Lucknow
+
+          State    Capital
+0  Maharashatra     Mumbai
+1         Jammu  Shrinagar
+2            MP     Bhopal
+3         patna    Lucknow
+
+          State    Capital
+9  Maharashatra     Mumbai
+8         Jammu  Shrinagar
+7            MP     Bhopal
+6         patna    Lucknow
